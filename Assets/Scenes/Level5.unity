@@ -269,7 +269,7 @@ MonoBehaviour:
   player: {fileID: 166256499}
   terrainChunkPrefab: {fileID: 265702922988763680, guid: feb9e528e457b9248ac1f2dc3b89434a, type: 3}
   chunkSize: 1
-  viewDistance: 20
+  viewDistance: 40
 --- !u!1001 &923088438
 PrefabInstance:
   m_ObjectHideFlags: 0
